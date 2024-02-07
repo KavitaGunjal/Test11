@@ -16,7 +16,7 @@ public class Pathparam {
 		given()
 		.pathParam("path_parameter_1","api1" )
 		.pathParam("path_parameter_2", "users")
-		.queryParam("page", 2)
+		.queryParam("page", 4)
 		
 		
 		.when()
